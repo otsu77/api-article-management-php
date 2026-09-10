@@ -196,7 +196,7 @@ Il existe 3 fonctions principales :
 Ce programme a été réalisé par des étudiants de l'**IUT informatique de Toulouse** dans le cadre d'un mini projet de groupe en programmation PHP. 
 Pour en savoir un peu plus, vous pouvez contacter les développeurs de l'API
 * [**Amdjad Anrifou**](https://github.com/maxiwere45)
-* [**Carl Premi**](https://github.com/otsu77)
+* [**otsu**]
 
 ### Professeurs de la ressource :
   * *Micheau Paul*
